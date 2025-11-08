@@ -8,7 +8,7 @@ int Count(char* s)
     if (!s) return 0;
 
     int count = 0;
-    int pos = 0;
+    size_t pos = 0;
     char* t;
 
     while (t = strchr(s + pos, 'n'))
