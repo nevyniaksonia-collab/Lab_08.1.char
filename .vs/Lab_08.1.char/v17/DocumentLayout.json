@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\\u042E\u043B\u044F\\Lab_08.1.char\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Student\\Lab8\\Lab_08.1.char\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE6762C7-E056-4A00-B35E-10E0AD3310AD}|Lab_08.1.char\\Lab_08.1.char.vcxproj|C:\\Users\\hp\\Desktop\\\u042E\u043B\u044F\\Lab_08.1.char\\Lab_08.1.char\\Lab_08.1.char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{14679134-0261-3A0B-3CC8-1A0B3C7EF6F1}|UnitTest81.2\\UnitTest81.2.vcxproj|C:\\Users\\hp\\Desktop\\Student\\Lab8\\Lab_08.1.char\\UnitTest81.2\\UnitTest81.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14679134-0261-3A0B-3CC8-1A0B3C7EF6F1}|UnitTest81.2\\UnitTest81.2.vcxproj|solutionrelative:UnitTest81.2\\UnitTest81.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6762C7-E056-4A00-B35E-10E0AD3310AD}|Lab_08.1.char\\Lab_08.1.char.vcxproj|C:\\Users\\hp\\Desktop\\Student\\Lab8\\Lab_08.1.char\\Lab_08.1.char\\Lab_08.1.char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FE6762C7-E056-4A00-B35E-10E0AD3310AD}|Lab_08.1.char\\Lab_08.1.char.vcxproj|solutionrelative:Lab_08.1.char\\Lab_08.1.char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest81.2.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Student\\Lab8\\Lab_08.1.char\\UnitTest81.2\\UnitTest81.2.cpp",
+              "RelativeDocumentMoniker": "UnitTest81.2\\UnitTest81.2.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Student\\Lab8\\Lab_08.1.char\\UnitTest81.2\\UnitTest81.2.cpp",
+              "RelativeToolTip": "UnitTest81.2\\UnitTest81.2.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T21:18:45.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab_08.1.char.cpp",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u042E\u043B\u044F\\Lab_08.1.char\\Lab_08.1.char\\Lab_08.1.char.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Student\\Lab8\\Lab_08.1.char\\Lab_08.1.char\\Lab_08.1.char.cpp",
               "RelativeDocumentMoniker": "Lab_08.1.char\\Lab_08.1.char.cpp",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\\u042E\u043B\u044F\\Lab_08.1.char\\Lab_08.1.char\\Lab_08.1.char.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Student\\Lab8\\Lab_08.1.char\\Lab_08.1.char\\Lab_08.1.char.cpp",
               "RelativeToolTip": "Lab_08.1.char\\Lab_08.1.char.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-08T21:14:02.416Z",
               "EditorCaption": ""
